@@ -58,7 +58,13 @@ Sign-in
 Sign-Up
 ![image](https://github.com/user-attachments/assets/d0e4bbdc-063f-4bee-b567-6a5a696aa0b6)
 
+Validation
+![image](https://github.com/user-attachments/assets/b703e1a4-a052-45c7-917c-717dafda6878)
+
+![image](https://github.com/user-attachments/assets/ed32e597-d894-4207-998c-c947947f0a9d)
  
+Username Validation and Uniqueness Check
+![image](https://github.com/user-attachments/assets/69a45a7e-fd06-4831-bb55-d76dd57e44fc)
 
 
 
